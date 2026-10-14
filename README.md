@@ -49,7 +49,7 @@ We chose a compact, tabular historical sales dataset to study recurring restaura
 
 ## Step 5 — Build and deploy
 
-Project files: `app.py`, `eda.ipynb`, `requirements.txt`, `KFC_Past_Sales_Dataset.csv`, and this README.
+Project files: `app.py`, `requirements.txt`, `KFC_Past_Sales_Dataset.csv`, and this README.
 
 1. Create a public GitHub repository and upload these files.
 2. In Streamlit Community Cloud, create a new app from the repository, with `app.py` as the entry point.
